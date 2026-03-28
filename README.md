@@ -26,3 +26,6 @@ The implementation also includes error handling to manage common issues such as 
 One of the key advantages of this tool is its simplicity and effectiveness. It demonstrates how a basic concept like hashing can be used to build a powerful security mechanism. While this implementation is a basic version, it can be further enhanced by automating periodic checks, maintaining logs of file changes, or integrating it with a graphical user interface for better usability.
 
 In conclusion, the File Integrity Checker successfully demonstrates the practical application of cryptographic hashing in ensuring data integrity. It highlights the importance of detecting unauthorized file modifications and provides a foundation for building more advanced security monitoring systems. This task not only strengthens programming skills in Python but also provides valuable insights into one of the core principles of cybersecurity.
+
+*OUTPUT*:
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/72cafaf3-ddc5-456d-ab47-b303aa502c52" />
